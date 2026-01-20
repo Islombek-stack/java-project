@@ -1,2 +1,3 @@
-Happy project
-java-project
+Happy project.
+Java-project!
+Thanks for watching!
